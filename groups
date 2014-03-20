@@ -7,5 +7,6 @@ global:Stream-Events				Stream Events
 global:Anonymous-Users                  	Anonymous Users
 global:Project-Owners                   	Project Owners
 global:Registered-Users                 	Registered Users
+global:Uploaders				Uploaders
 ldap:cn=all_project_owners,ou=groups,cn=allseen,dc=codeaurora,dc=org	ldap/all_project_owners
 ldap:cn=gerrit_baseservices_committers,ou=groups,cn=allseen,dc=codeaurora,dc=org	ldap/gerrit_baseservices_committers
