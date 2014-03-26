@@ -981,8 +981,6 @@ public class OnboardingManager {
      *
      * @param context
      *            The application context
-     * @param allJoynManagmentCallback
-     *            a callback for invoking BusAttachment recycling.
      * @throws OnboardingIllegalArgumentException
      *             if either of the parameters is null.
      * @throws OnboardingIllegalStateException
